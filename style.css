@@ -1,0 +1,32 @@
+p{
+/*  change the color of the text */
+  color:#C297B8;
+  backrground-color:brown;
+}
+  h1{
+color:#40434E;
+  bacground-color:#070707;
+  }
+    h2{
+    color:#FF0000;
+  background-color:#FFC4C4;
+  }
+  h3{
+    color:#FFFFFF;
+      background-color:#763333;
+  }
+     h4{
+color:#DE89BE;
+  background-color:#DCC2D2;
+  }
+    h5{
+    color:#E69C9C;
+  background-color:#DE89BE;
+  }
+  h6{
+    color:#DCC2D2;
+      background-color:#763333;
+  }
+  body{background-color: green} 
+    
+ 
